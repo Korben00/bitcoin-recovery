@@ -1,0 +1,6 @@
+pyfiglet
+musicalbeeps
+colorama
+pygame
+pycoin
+bitcoin
