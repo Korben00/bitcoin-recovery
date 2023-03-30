@@ -1,4 +1,4 @@
-# Bitcoin Recovery April Fools
+# Bitcoin Recovery
 
 This Python script is a useful tool for cryptocurrency enthusiasts. It recovers Bitcoin private keys from public keys.
 
