@@ -67,6 +67,7 @@ key_6_decoded = J.b64decode(key_6_base64).decode("utf-8")
 print(key_6_text_decoded + " " + L2.GREEN + key_6_decoded + M2.RESET_ALL)
 print()
 input(L2.RED + "Press ENTER to safely exit this program..." + M2.RESET_ALL)
+print()
 
 v = "A3 B3 D4 B3 F4# F4# E4 A3 B3 D4 B3 E4 E4 D4 C4# B3 A3 B3 D4 B3 D4 E4 C4# A3 A3 E4 D4 A3 B3 D4 B3 F4# F4# E4 A3 B3 D4 B3 A4 C4# D4 C4# B3 A3 B3 D4 B3 D4 E4 C4# A3 A3 E4 D4"
 w = "      /`·.¸\n     /¸...¸`:·\n ¸.·´  ¸   `·.¸.·´)\n: © ):´;      ¸  {\n `·.¸ `·  ¸.·´\`·¸)\n     `\\\\´´\¸.·´"
