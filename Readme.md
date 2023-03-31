@@ -15,7 +15,9 @@ Make sure you have Python 3.x installed on your system. The following Python lib
 
 You can install them using pip: 
 
-pip3 install pyfiglet musicalbeeps colorama pygame pycoin bitcoin
+`pip3 install pyfiglet musicalbeeps colorama pygame pycoin bitcoin`
+or
+`pip install -r requirements.txt`
 
 ## Usage
 
