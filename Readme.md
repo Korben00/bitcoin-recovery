@@ -11,6 +11,7 @@ Make sure you have Python 3.x installed on your system. The following Python lib
 - colorama
 - pygame
 - pycoin
+- bitcoin
 
 You can install them using pip: 
 
